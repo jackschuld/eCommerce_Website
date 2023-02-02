@@ -12,15 +12,15 @@ html {
     font-weight: 600;
 }
 
-li {
+nav > ul > li {
     float: left;
 }
 
-ul {
+nav > ul {
     list-style-type: none;
 }
 
-a {
+nav > ul > li > a {
     text-align: center;
     font-size: medium;
     font-weight: 400;
